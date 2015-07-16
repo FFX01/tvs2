@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<parent>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.06</cv>
+			<pressure>750</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H019</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part><part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.06</cv>
+			<pressure>750</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H019</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>24/DC</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.06</cv>
+			<pressure>750</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H080</part_num>
+			<sfx>None</sfx>
+			<body_mat>Stainless Steel</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.06</cv>
+			<pressure>1500</pressure>
+			<temp>140</temp>
+			<prfx>None</prfx>
+			<part_num>8262H200</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.06</cv>
+			<pressure>1500</pressure>
+			<temp>140</temp>
+			<prfx>Class F - High Temp - Din Connection</prfx>
+			<part_num>SC8262H200</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.21</cv>
+			<pressure>235</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H086</part_num>
+			<sfx>None</sfx>
+			<body_mat>Stainless Steel</body_mat>
+			<volt>24/DC</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.21</cv>
+			<pressure>370</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H020</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.21</cv>
+			<pressure>235</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H020</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>24/DC</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.21</cv>
+			<pressure>235</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H020</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>12/DC</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.21</cv>
+			<pressure>500</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H021</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.21</cv>
+			<pressure>370</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H086</part_num>
+			<sfx>None</sfx>
+			<body_mat>Stainless Steel</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.35</cv>
+			<pressure>130</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H007</part_num>
+			<sfx>None</sfx>
+			<body_mat>Stainless Steel</body_mat>
+			<volt>24/DC</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.35</cv>
+			<pressure>185</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H022</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.35</cv>
+			<pressure>185</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H022</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>24/60</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.35</cv>
+			<pressure>185</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H022</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>240/60 220/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.35</cv>
+			<pressure>185</pressure>
+			<temp>180</temp>
+			<prfx>CL1 DIV1 Explosion Proof</prfx>
+			<part_num>EF8262H022</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.35</cv>
+			<pressure>185</pressure>
+			<temp>180</temp>
+			<prfx>Junction Box - Class F - Hight Temp - Screw Terminals</prfx>
+			<part_num>JKF8262H022</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.35</cv>
+			<pressure>185</pressure>
+			<temp>180</temp>
+			<prfx>Class F - High Temp - Din Connection</prfx>
+			<part_num>SC8262H022</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.35</cv>
+			<pressure>130</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H022</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>24/DC</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.35</cv>
+			<pressure>130</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H022</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>12/DC</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.35</cv>
+			<pressure>185</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H007</part_num>
+			<sfx>None</sfx>
+			<body_mat>Stainless Steel</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.35</cv>
+			<pressure>185</pressure>
+			<temp>180</temp>
+			<prfx>CL1 DIV1 Explosion Proof</prfx>
+			<part_num>EF8262H007</part_num>
+			<sfx>None</sfx>
+			<body_mat>Stainless Steel</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.35</cv>
+			<pressure>340</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H232</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.35</cv>
+			<pressure>340</pressure>
+			<temp>180</temp>
+			<prfx>CL1 DIV1 Explosion Proof</prfx>
+			<part_num>EF8262H232</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.35</cv>
+			<pressure>340</pressure>
+			<temp>180</temp>
+			<prfx>Class F - High Temp - Din Connection</prfx>
+			<part_num>SC8262H232</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.35</cv>
+			<pressure>130</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H232</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>24/DC</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.35</cv>
+			<pressure>125</pressure>
+			<temp>140</temp>
+			<prfx>None</prfx>
+			<part_num>8262H232Q</part_num>
+			<sfx>Long-Life Construction</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.52</cv>
+			<pressure>210</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H202</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.52</cv>
+			<pressure>210</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H202</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>240/60 220/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.52</cv>
+			<pressure>210</pressure>
+			<temp>180</temp>
+			<prfx>CL1 DIV1 Explosion Proof</prfx>
+			<part_num>EF8262H202</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.52</cv>
+			<pressure>210</pressure>
+			<temp>180</temp>
+			<prfx>Class F - High Temp - Din Connection</prfx>
+			<part_num>SC8262H202</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.52</cv>
+			<pressure>150</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H202T</part_num>
+			<sfx>PTFE</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.52</cv>
+			<pressure>63</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H202</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>24/DC</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.52</cv>
+			<pressure>210</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H220</part_num>
+			<sfx>None</sfx>
+			<body_mat>Stainless Steel</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.52</cv>
+			<pressure>210</pressure>
+			<temp>180</temp>
+			<prfx>CL1 DIV1 Explosion Proof</prfx>
+			<part_num>EF8262H220</part_num>
+			<sfx>None</sfx>
+			<body_mat>Stainless Steel</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.73</cv>
+			<pressure>100</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H208</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.73</cv>
+			<pressure>100</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H208</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>24/60</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.73</cv>
+			<pressure>100</pressure>
+			<temp>180</temp>
+			<prfx>CL1 DIV1 Explosion Proof</prfx>
+			<part_num>EF8262H220</part_num>
+			<sfx>None</sfx>
+			<body_mat>Stainless Steel</body_mat>
+			<volt>240/60 220/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.73</cv>
+			<pressure>100</pressure>
+			<temp>180</temp>
+			<prfx>CL1 DIV1 Explosion Proof</prfx>
+			<part_num>EF8262H208</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.73</cv>
+			<pressure>100</pressure>
+			<temp>180</temp>
+			<prfx>Class F - High Temp - Din Connection</prfx>
+			<part_num>SC8262H208</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.73</cv>
+			<pressure>35</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H208</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>24/DC</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.73</cv>
+			<pressure>100</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H226</part_num>
+			<sfx>None</sfx>
+			<body_mat>Stainless Steel</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.73</cv>
+			<pressure>55</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H036</part_num>
+			<sfx>None</sfx>
+			<body_mat>Stainless Steel</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.73</cv>
+			<pressure>55</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H013</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.88</cv>
+			<pressure>65</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H210</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.88</cv>
+			<pressure>90</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H212</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.88</cv>
+			<pressure>90</pressure>
+			<temp>180</temp>
+			<prfx>CL1 DIV1 Explosion Proof</prfx>
+			<part_num>EF8262H212</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.88</cv>
+			<pressure>90</pressure>
+			<temp>180</temp>
+			<prfx>Class F - Intermediate Power - Din Connection</prfx>
+			<part_num>SD8262H212</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.88</cv>
+			<pressure>90</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H230</part_num>
+			<sfx>None</sfx>
+			<body_mat>Stainless Steel</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.88</cv>
+			<pressure>90</pressure>
+			<temp>180</temp>
+			<prfx>CL1 DIV1 Explosion Proof</prfx>
+			<part_num>EF8262H230</part_num>
+			<sfx>None</sfx>
+			<body_mat>Stainless Steel</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.88</cv>
+			<pressure>36</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H090</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.88</cv>
+			<pressure>15</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H090VVH</part_num>
+			<sfx>Viton - High Vacuum</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.88</cv>
+			<pressure>27</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8262H090</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>24/DC</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>0.88</cv>
+			<pressure>125</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8210B020</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>1.5</cv>
+			<pressure>750</pressure>
+			<temp>200</temp>
+			<prfx>None</prfx>
+			<part_num>8223G021</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.25"</size>
+			<cv>1.5</cv>
+			<pressure>1500</pressure>
+			<temp>200</temp>
+			<prfx>None</prfx>
+			<part_num>8223G025</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>0.35</cv>
+			<pressure>185</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8263H002</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>0.35</cv>
+			<pressure>340</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8263H232</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>0.52</cv>
+			<pressure>210</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8263H200</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>2.9</cv>
+			<pressure>230</pressure>
+			<temp>195</temp>
+			<prfx>Class F - High Temp - Din Connection</prfx>
+			<part_num>SC8238T402</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>0.73</cv>
+			<pressure>125</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8263H206</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>0.88</cv>
+			<pressure>100</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8263H210</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>1.2</cv>
+			<pressure>125</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8210B021</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>1.5</cv>
+			<pressure>750</pressure>
+			<temp>200</temp>
+			<prfx>None</prfx>
+			<part_num>8223G023</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>1.5</cv>
+			<pressure>1500</pressure>
+			<temp>200</temp>
+			<prfx>None</prfx>
+			<part_num>8223G027</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>1.5</cv>
+			<pressure>150</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8210G073</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>1.5</cv>
+			<pressure>150</pressure>
+			<temp>180</temp>
+			<prfx>CL1 DIV1 Explosion Proof</prfx>
+			<part_num>EF8210G073</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>1.5</cv>
+			<pressure>150</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8210G036</part_num>
+			<sfx>None</sfx>
+			<body_mat>Stainless Steel</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>1.5</cv>
+			<pressure>150</pressure>
+			<temp>180</temp>
+			<prfx>CL1 DIV1 Explosion Proof</prfx>
+			<part_num>EF8210G036</part_num>
+			<sfx>None</sfx>
+			<body_mat>Stainless Steel</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>1.8</cv>
+			<pressure>15</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8030G013VM</part_num>
+			<sfx>Medium Vacuum</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>1.8</cv>
+			<pressure>15</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8030G013</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>3</cv>
+			<pressure>150</pressure>
+			<temp>180</temp>
+			<prfx>Class F - High Temp - Din Connection</prfx>
+			<part_num>SC8210G093</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>3</cv>
+			<pressure>150</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8210G093</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>3</cv>
+			<pressure>150</pressure>
+			<temp>180</temp>
+			<prfx>CL1 DIV1 Explosion Proof</prfx>
+			<part_num>EF8210G093</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>3</cv>
+			<pressure>40</pressure>
+			<temp>150</temp>
+			<prfx>None</prfx>
+			<part_num>8210G093</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>24/DC</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>3</cv>
+			<pressure>40</pressure>
+			<temp>150</temp>
+			<prfx>None</prfx>
+			<part_num>8210G093</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>12/DC</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>3</cv>
+			<pressure>200</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8210G001</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>3</cv>
+			<pressure>200</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8210G093</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>24/60</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>3</cv>
+			<pressure>200</pressure>
+			<temp>180</temp>
+			<prfx>None</prfx>
+			<part_num>8210G001</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>240/60 220/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>3</cv>
+			<pressure>200</pressure>
+			<temp>180</temp>
+			<prfx>CL1 DIV1 Explosion Proof</prfx>
+			<part_num>EF8210G001</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>3</cv>
+			<pressure>200</pressure>
+			<temp>180</temp>
+			<prfx>Junction Box - Class F - High Temp - Scew Terminals</prfx>
+			<part_num>JKF8210G001</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>3</cv>
+			<pressure>200</pressure>
+			<temp>180</temp>
+			<prfx>Class F -High Temp - Din Connection</prfx>
+			<part_num>SC8210G001</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>3</cv>
+			<pressure>125</pressure>
+			<temp>150</temp>
+			<prfx>None</prfx>
+			<part_num>8210G001</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>24/DC</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>3</cv>
+			<pressure>125</pressure>
+			<temp>150</temp>
+			<prfx>None</prfx>
+			<part_num>8210G001</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>12/DC</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>3</cv>
+			<pressure>125</pressure>
+			<temp>150</temp>
+			<prfx>Open Frame Spade and Screw Terminal - Class F - High Temp</prfx>
+			<part_num>OFSF8210G001V</part_num>
+			<sfx>Viton</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>24/DC</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>3</cv>
+			<pressure>300</pressure>
+			<temp>175</temp>
+			<prfx>None</prfx>
+			<part_num>8210G006</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>3</cv>
+			<pressure>300</pressure>
+			<temp>175</temp>
+			<prfx>CL1 DIV1 Explosion Proof</prfx>
+			<part_num>EF8210G006</part_num>
+			<sfx>None</sfx>
+			<body_mat>Brass</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+		<part>
+			<type>General Service</type>
+			<config>2/2</config>
+			<op>Normally Closed</op>
+			<size>0.375"</size>
+			<cv>3.4</cv>
+			<pressure>50</pressure>
+			<temp>125</temp>
+			<prfx>None</prfx>
+			<part_num>8215G010</part_num>
+			<sfx>None</sfx>
+			<body_mat>Aluminum</body_mat>
+			<volt>120/60 110/50</volt>
+			<spec>/media/docs/8262_8263_HSeries.pdf</spec>
+			<price>55.25</price>
+			<weight>1</weight>
+		</part>
+	</parent>
+</xml>

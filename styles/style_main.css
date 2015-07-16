@@ -1,0 +1,237 @@
+
+/* Styles for all pages */
+
+body {
+    width: auto;
+	}
+#etc p {
+	margin: 0px;
+	text-align: center;
+	color: white;
+	}
+#splash {
+	width: 100%;
+	Height: auto;
+	}
+#section {
+    width: 100%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+	}
+#footer {
+    background-color: black;
+	color: white;
+    clear: both;
+	text-align: center;
+    padding: 5px;
+	}
+#sidebar {
+    width: 150px;
+	background-color: #4D4E50;
+	vertical-align: top;
+	padding: 0;
+	}
+#etc {
+	margin: 15px;
+	}
+#valin_logo {
+	border-radius: 5px;
+	}
+#container {
+    width: 100%;
+	border-collapse: collapse;
+	}
+#header {
+    background-color: black;
+	color: white;
+    text-align:  center;
+	padding: 5px;
+	}
+#cart_btn {
+	text-align:center;
+	}
+.cart_btn {
+	width:90%;
+	background-color:#647ABA;
+	border:2px solid black;
+	border-radius:3px;
+	font-size:16px;
+	color:white;
+	}
+.cart_btn:hover {
+	transform:scale(1.1,1.1);
+	background-color:#718AD1;
+	cursor:pointer;
+	}
+	
+/*Styles for Navigation menu*/
+	
+#nav {
+    font-size: 12px;
+	background-color: #eeeeee;
+	width: 150px;
+	}
+#nav ul {
+    margin: 0;
+	padding: 0;
+	}
+#nav li {
+    list-style: none;
+	}
+ul.top_level {
+    background: #666;
+	}
+ul.top_level li {
+    border-bottom: #fff solid;
+	border-top: #fff solid;
+    border-width: 1px;
+	}
+#nav a {
+    color: #fff;
+	cursor: pointer;
+    display: block;
+	height: 25px;
+    line-height: 25px;
+	text-indent: 10px;
+    text-decoration: none;
+	width: 100%;
+	}
+#nav a:hover {
+    text-decoration: underline;
+	}
+#nav li:hover {
+    background: #55AEED;
+	position: relative;
+	}
+ul.sub_level {
+    display: none;
+	}
+li:hover .sub_level {
+    background: #999;
+	border: #fff solid;
+    border-width: 1px;
+	display: block;
+    position: absolute;
+	left: 150px;
+    top: 5px;
+	}
+ul.sub_level li {
+    border: none;
+	float: left;
+    width: 150px;
+	}
+#nav .sub_level {
+    background: #999;
+	}
+
+/*Styles for product selection pages */
+
+.mfg_info {
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	float: left;
+	}
+.mfg_image {
+	width: 20%;
+	float: left;
+	}
+.mfg_image img {
+	width: 100%;
+	border-radius: 15px;
+	}
+.mfg_desc {
+	width: 79%;
+	float: left;
+	padding-left: 1%;	
+	padding-top: 1%;
+	}
+.instructions {
+	margin-left: 5%;
+	margin-right: 5%;
+	float: left;
+	}
+#product_table {
+	width: 90%;
+	margin: auto;
+	}
+#product_table td {
+	text-align: center;
+	}
+
+
+/*styles for product list pages*/
+
+.prod_list {
+	display: table;
+	margin: auto;
+	}	
+.prod_list_row {
+	display: table-row;
+	}
+.prod_list_row img {
+	border-radius: 10px;
+	}
+.prod_btn {
+	display: table-cell;
+	padding: 15px;
+	}
+.prod_btn_desc {
+	display:table-cell;
+	text-align:center;
+	}
+.prod_btn_desc p {
+	background-color:#4D4E50;
+	border-radius:5px;
+	margin:1%;
+	color:white;
+	}
+.prod_btn img:hover {
+	transform: scale(1.1,1.1);
+	box-shadow: 0px 10px 10px black;
+}
+
+/*styles for home page */
+
+#site_desc {
+	width:90%;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:1%;
+	padding:1%
+	}
+#site_sub_desc {
+	float:left;
+	width:38%;
+	margin-left:5%;
+	margin-right:0.5%;
+	margin-bottom:1%;
+	padding:1%;
+	}
+#useful_links {
+	float:left;
+	width:47%;
+	margin-left:0.5%;
+	margin-right:5%;
+	margin-bottom:1%;
+	padding:1%;
+	}
+.quick_link {
+	width:120px;
+	float:left;
+	margin:1%;
+	background-color:#4D4E50;
+	border:2px solid black;
+	border-radius:10px;
+	text-align:center;
+	}
+.quick_link a {
+	text-decoration:none;
+	color:white;
+	font-size:16px;
+	}
+.quick_link:hover {
+	transform:scale(1.1,1.1);
+	background-color:#647ABA;
+	}
+

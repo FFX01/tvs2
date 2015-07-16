@@ -1,0 +1,3941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <parent>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-0-0B(1)</part_num>
+            <size>1"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.2</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>67.50</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-0-0B(1.25)</part_num>
+            <size>1.25"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.3</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>78.21</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-0-0B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>84.64</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-0-0B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.8</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>92.14</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-0-0B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.8</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>102.86</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-0-0B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.3</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>114.64</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-0-0B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>146.79</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-0-0B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>3.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>195.00</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-0-0B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>5.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>273.21</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-0-0B(8)</part_num>
+            <size>8"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>10</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>630.00</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-0-0B(10)</part_num>
+            <size>10"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>20</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>1960.71</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-0-0B(12)</part_num>
+            <size>12"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>35</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>2873.57</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-0B(1)</part_num>
+            <size>1"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.3</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>60.00</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-0B(1.25)</part_num>
+            <size>1.25"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>61.07</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-0B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>62.14</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-0B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>71.79</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-0B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.8</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>85.71</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-0B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>2.7</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>101.79</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-0B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>3.7</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>130.71</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-0B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>10.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>226.07</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-0B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>11</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>293.57</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-0B(8)</part_num>
+            <size>8"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>22</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>487.50</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-0B(10)</part_num>
+            <size>10"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>40</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>822.86</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-0B(12)</part_num>
+            <size>12"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>75</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>1145.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-4B(1)</part_num>
+            <size>1"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>69.64</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-4B(1.25)</part_num>
+            <size>1.25"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.8</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>76.07</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-4B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.7</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>85.71</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-4B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>97.50</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-4B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>2.8</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>110.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-4B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>3.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>133.93</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-4B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>4.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>180.00</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-4B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>10</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>297.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-4B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>18</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>368.57</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-4B(8)</part_num>
+            <size>8"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>30</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>574.29</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-4B(10)</part_num>
+            <size>10"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>55</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>971.79</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-1-4B(12)</part_num>
+            <size>12"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>85</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>2090.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-3-3B(1)</part_num>
+            <size>1"</size>
+            <body_mat>Brass</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>137.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-3-3B(1.25)</part_num>
+            <size>1.25"</size>
+            <body_mat>Brass</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.6</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>147.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-3-3B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Brass</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.9</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>200.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-3-3B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Brass</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.2</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>200.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-3-3B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Brass</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>10</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>637.50</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-3-3B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Brass</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>18</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>820.71</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-4-4B(1)</part_num>
+            <size>1"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.4</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>163.93</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-4-4B(1.25)</part_num>
+            <size>1.25"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.6</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>174.64</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-4-4B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.9</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>191.79</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-4-4B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.2</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>221.79</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-4-4B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>2</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>283.93</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-4-4B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>3</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>334.29</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-4-4B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>6</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>476.79</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-4-4B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>10</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>860.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-4-4B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>18</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>1284.64</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-4-4B(8)</part_num>
+            <size>8"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>27.7</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>2202.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-4-4B(10)</part_num>
+            <size>10"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>65</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>3073.93</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded</type>
+            <part_num>07-4-4B(12)</part_num>
+            <size>12"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>80</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>5260.71</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-0-0B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>2</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>111.43</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-0-0B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.8</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>114.64</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-0-0B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>3</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>137.14</price>
+        </valve>
+        <valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-0-0B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>4</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>162.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-0-0B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>7</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>242.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-0-0B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>9</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>334.29</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-0-0B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>15</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>420.00</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-0-0B(8)</part_num>
+            <size>8"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>26</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>646.07</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-0-0B(10)</part_num>
+            <size>10"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>43</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>961.07</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-0-0B(12)</part_num>
+            <size>12"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>78</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>1615.71</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-0B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>3</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>135.00</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-0B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>5</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>220.71</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-0B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>7</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>301.07</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-0B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>11</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>310.71</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-0B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>18</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>332.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-0B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>22</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>417.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-0B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>29</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>489.64</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-0B(8)</part_num>
+            <size>8"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>69</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>831.43</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-0B(10)</part_num>
+            <size>10"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>114</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>1386.43</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-0B(12)</part_num>
+            <size>12"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>200</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>2657.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-4B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>2</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>158.57</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-4B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>3</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>246.43</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-4B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>5</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>337.50</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-4B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>7</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>358.93</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-4B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>23</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>398.57</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-4B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>24</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>518.57</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-4B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>34</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>652.50</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-4B(8)</part_num>
+            <size>8"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>74</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>1267.50</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-4B(10)</part_num>
+            <size>10"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>124</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>1992.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-1-4B(12)</part_num>
+            <size>12"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>223</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>3583.93</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-0B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>97.50</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-0B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.5</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>101.79</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-0B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.9</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>118.93</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-0B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>10</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>150.00</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-0B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>16</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>181.07</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-0B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>24</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>275.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-0B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>19</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>327.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-0B(8)</part_num>
+            <size>8"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>37.5</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>508.93</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-0B(10)</part_num>
+            <size>10"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>68</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>857.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-0B(12)</part_num>
+            <size>12"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>110</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>1350.00</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-0B(14)</part_num>
+            <size>14"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>170</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>1875.00</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-0B(16)</part_num>
+            <size>16"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>225</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>2700.00</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-0B(18)</part_num>
+            <size>18"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>275</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>3653.57</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-0B(20)</part_num>
+            <size>20"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>340</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>3926.79</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-0B(24)</part_num>
+            <size>24"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>450</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>6428.57</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-3B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>4</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>121.07</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-3B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>5</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>127.50</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-3B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>6</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>155.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-3B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>6.5</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>198.21</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-3B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>14</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>247.50</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-3B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>22</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>376.07</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-3B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>23</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>490.71</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-4B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>4</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>121.07</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-4B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>4</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>127.50</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-4B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>5</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>155.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-4B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>6</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>198.21</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-4B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>12.5</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>247.25</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-4B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>15.7</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>376.07</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-4B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>22</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>490.71</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-4B(8)</part_num>
+            <size>8"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>46</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>945.00</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-4B(10)</part_num>
+            <size>10"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>63</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>1463.57</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-4B(12)</part_num>
+            <size>12"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>111</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>2276.79</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-4B(14)</part_num>
+            <size>14"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>170</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>3248.57</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-4B(16)</part_num>
+            <size>16"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>225</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>4287.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-4B(18)</part_num>
+            <size>18"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>275</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>5333.57</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-4B(20)</part_num>
+            <size>20"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>341</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>6532.50</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-2-4B(24)</part_num>
+            <size>24"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>452</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>10485.00</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-3-3B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Brass</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>4.5</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>352.50</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-3-3B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Brass</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>5</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>416.79</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-3-3B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Brass</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>8</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>458.57</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-3-3B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Brass</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>9</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>503.57</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-3-3B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Brass</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>17</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>632.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-3-3B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Brass</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>23</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>887.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-3-3B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Brass</body_mat>
+            <int_mat>Brass</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>34</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>1446.43</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-3-3B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>5</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>407.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-3-3B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>6</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>497.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-3-3B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>8</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>655.71</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-3-3B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>11</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>723.21</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-3-3B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>18</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>952.50</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-3-3B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>23</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>1276.07</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-3-3B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>31</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>1819.29</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-3-3B(8)</part_num>
+            <size>8"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>74</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>2742.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-3-3B(10)</part_num>
+            <size>10"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>124</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>4232.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-3-3B(12)</part_num>
+            <size>12"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>223</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>6739.29</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Wafer</type>
+            <part_num>09-3-3B(14)</part_num>
+            <size>14"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>277</weight>
+			<spec>/media/docs/us_valve_09_09x.pdf</spec>
+            <price>8616.43</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-0-0B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>109.29</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-0-0B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Aluminum</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>137.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-0B(1)</part_num>
+            <size>1"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>65.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-0B(1.25)</part_num>
+            <size>1.25"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.7</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>67.50</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-0B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.1</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>69.64</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-0B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>85.71</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-0B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>2.4</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>99.64</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-0B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>3.6</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>122.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-0B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>5.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>155.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-0B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>9.6</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>260.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-0B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>12.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>328.93</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-4B(1)</part_num>
+            <size>1"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.8</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>80.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-4B(1.25)</part_num>
+            <size>1.25"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.2</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>86.79</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-4B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.7</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>92.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-4B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>2.2</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>109.29</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-4B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>3.3</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>125.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-4B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>5.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>154.29</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-4B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>5.6</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>208.93</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-4B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>13</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>334.29</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-4B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>24</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>411.43</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-4B(8)</part_num>
+            <size>8"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>48</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>660.00</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-4B(10)</part_num>
+            <size>10"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>80</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>1068.21</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-1-4B(12)</part_num>
+            <size>12"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>115</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>1553.57</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-4-4B(1)</part_num>
+            <size>1"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.6</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>218.57</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-4-4B(1.25)</part_num>
+            <size>1.25"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.1</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>230.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-4-4B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.1</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>267.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-4-4B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.6</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>297.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-4-4B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>3</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>351.43</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-4-4B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>3.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>406.07</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-4-4B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>3.6</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>544.29</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-4-4B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>13</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>918.21</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Grooved</type>
+            <part_num>11-4-4B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>24</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>1320.00</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-0B(1)</part_num>
+            <size>1"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>60.00</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-0B(1.25)</part_num>
+            <size>1.25"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.7</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>61.07</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-0B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.1</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>62.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-0B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>76.07</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-0B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>2.4</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>92.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-0B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>3.6</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>105.00</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-0B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>5.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>141.43</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-0B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>10</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>237.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-0B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>12.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>297.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-0B(8)</part_num>
+            <size>8"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>27</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>493.93</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-0B(10)</part_num>
+            <size>10"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>48</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>830.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-0B(12)</part_num>
+            <size>12"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>85</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>1147.50</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-4B(1)</part_num>
+            <size>1"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.8</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>69.64</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-4B(1.25)</part_num>
+            <size>1.25"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.2</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>80.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-4B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.7</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>85.71</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-4B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>2.2</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>97.50</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-4B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>3.3</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>110.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-4B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>5.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>133.93</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-4B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>7.5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>180.00</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-4B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>13</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>307.50</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-4B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>24</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>379.29</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-4B(8)</part_num>
+            <size>8"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>48</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>640.71</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-4B(10)</part_num>
+            <size>10"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>80</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>1060.71</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-1-4B(12)</part_num>
+            <size>12"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>115</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>1519.29</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-4-4B(1)</part_num>
+            <size>1"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>0.7</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>218.57</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-4-4B(1.25)</part_num>
+            <size>1.25"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.1</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>230.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-4-4B(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>1.6</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>267.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-4-4B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>2</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>297.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-4-4B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>3</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>351.43</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-4-4B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>5</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>406.07</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-4-4B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>7</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>544.29</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-4-4B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>13</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>918.21</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-4-4B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>24</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>1320.00</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-4-4B(8)</part_num>
+            <size>8"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>48</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>2252.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-4-4B(10)</part_num>
+            <size>10"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>80</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>3207.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Plain</type>
+            <part_num>13-4-4B(12)</part_num>
+            <size>12"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>115</weight>
+			<spec>/media/docs/us_valve_07_11_13.pdf</spec>
+            <price>5153.57</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female-Deep Well</type>
+            <part_num>17-1-4SPB(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>3</weight>
+			<spec>/media/docs/us_valve_17.pdf</spec>
+            <price>211.07</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female-Deep Well</type>
+            <part_num>17-1-4SPB(2)</part_num>
+            <size>2"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>4</weight>
+			<spec>/media/docs/us_valve_17.pdf</spec>
+            <price>217.50</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female-Deep Well</type>
+            <part_num>17-1-4SPB(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>7</weight>
+			<spec>/media/docs/us_valve_17.pdf</spec>
+            <price>229.29</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female-Deep Well</type>
+            <part_num>17-1-4SPB(3)</part_num>
+            <size>3"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>10</weight>
+			<spec>/media/docs/us_valve_17.pdf</spec>
+            <price>263.57</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female-Deep Well</type>
+            <part_num>17-1-4SPB(4)</part_num>
+            <size>4"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>14</weight>
+			<spec>/media/docs/us_valve_17.pdf</spec>
+            <price>407.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female-Deep Well</type>
+            <part_num>17-1-4SPB(5)</part_num>
+            <size>5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>21</weight>
+			<spec>/media/docs/us_valve_17.pdf</spec>
+            <price>669.64</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female-Deep Well</type>
+            <part_num>17-1-4SPB(6)</part_num>
+            <size>6"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>29</weight>
+			<spec>/media/docs/us_valve_17.pdf</spec>
+            <price>994.29</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female-Deep Well</type>
+            <part_num>17-1-4SPB(8)</part_num>
+            <size>8"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>49</weight>
+			<spec>/media/docs/us_valve_17.pdf</spec>
+            <price>1701.43</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female</type>
+            <part_num>18-1-4SPB(1)</part_num>
+            <size>1"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>1</weight>
+			<spec>/media/docs/us_valve_18.pdf</spec>
+            <price>83.00</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female-Deep Well</type>
+            <part_num>17-4-4SPB(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>7</weight>
+			<spec>/media/docs/us_valve_17.pdf</spec>
+            <price>871.07</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female-Deep Well</type>
+            <part_num>17-4-4SPB(4)</part_num>
+            <size>4"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>15</weight>
+			<spec>/media/docs/us_valve_17.pdf</spec>
+            <price>1967.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female</type>
+            <part_num>18-1-4SPB(1)</part_num>
+            <size>1"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>1</weight>
+			<spec>/media/docs/us_valve_18.pdf</spec>
+            <price>88.93</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female</type>
+            <part_num>18-1-4SPB(1.25)</part_num>
+            <size>1.25"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>2</weight>
+			<spec>/media/docs/us_valve_18.pdf</spec>
+            <price>95.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female</type>
+            <part_num>18-1-4SPB(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>3</weight>
+			<spec>/media/docs/us_valve_18.pdf</spec>
+            <price>124.29</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female</type>
+            <part_num>18-1-4SPB(2)</part_num>
+            <size>2"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>4</weight>
+			<spec>/media/docs/us_valve_18.pdf</spec>
+            <price>147.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female</type>
+            <part_num>18-1-4SPB(3)</part_num>
+            <size>3"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>7</weight>
+			<spec>/media/docs/us_valve_18.pdf</spec>
+            <price>235.71</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female</type>
+            <part_num>18-4-4SPB(1)</part_num>
+            <size>1"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>1</weight>
+			<spec>/media/docs/us_valve_18.pdf</spec>
+            <price>235.71</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female</type>
+            <part_num>18-4-4SPB(1.25)</part_num>
+            <size>1.25"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>2</weight>
+			<spec>/media/docs/us_valve_18.pdf</spec>
+            <price>255.00</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female</type>
+            <part_num>18-4-4SPB(1.5)</part_num>
+            <size>1.5"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>3</weight>
+			<spec>/media/docs/us_valve_18.pdf</spec>
+            <price>325.71</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female</type>
+            <part_num>18-4-4SPB(2)</part_num>
+            <size>2"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>4</weight>
+			<spec>/media/docs/us_valve_18.pdf</spec>
+            <price>385.71</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Threaded-Female</type>
+            <part_num>18-4-4SPB(3)</part_num>
+            <size>3"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>6</weight>
+			<spec>/media/docs/us_valve_18.pdf</spec>
+            <price>576.43</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-0B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>8</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>215.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-0B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>11</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>246.43</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-0B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>14</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>250.71</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-0B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>30</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>305.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-0B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>36</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>398.57</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-0B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>38</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>508.93</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-0B(8)</part_num>
+            <size>8"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>78</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>846.43</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-0B(10)</part_num>
+            <size>10"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>108</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>1548.21</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-0B(12)</part_num>
+            <size>12"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Aluminum</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>177</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>2541.43</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-4B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>12</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>305.36</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-4B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>18</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>371.79</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-4B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>20</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>373.93</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-4B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>30</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>452.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-4B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>38</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>600.00</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-4B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>46</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>756.43</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-4B(8)</part_num>
+            <size>8"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>85</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>1217.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-4B(10)</part_num>
+            <size>10"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>120</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>1908.21</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-4-4B(2)</part_num>
+            <size>2"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>11</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>732.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-4B(2.5)</part_num>
+            <size>2.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>17</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>912.86</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-4B(3)</part_num>
+            <size>3"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>20</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>1102.50</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-4B(4)</part_num>
+            <size>4"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>33</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>1609.29</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-4B(5)</part_num>
+            <size>5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>40</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>2056.07</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-4B(6)</part_num>
+            <size>6"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>50</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>3017.14</price>
+        </valve>
+		<valve>
+        	<type>Elastomer Hinge Flanged</type>
+            <part_num>19-1-4B(8)</part_num>
+            <size>8"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>No</spring>
+            <weight>85</weight>
+			<spec>/media/docs/us_valve_19.pdf</spec>
+            <price>4607.14</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPE12(2) - 150#</part_num>
+            <size>2"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>EPDM</seal_mat>
+            <spring>Yes</spring>
+            <weight>3.7</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>75.00</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPE12(2.5) - 150#</part_num>
+            <size>2.5"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>EPDM</seal_mat>
+            <spring>Yes</spring>
+            <weight>5.5</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>96.43</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPE12(3) - 150#</part_num>
+            <size>3"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>EPDM</seal_mat>
+            <spring>Yes</spring>
+            <weight>6.6</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>127.50</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPE12(4) - 150#</part_num>
+            <size>4"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>EPDM</seal_mat>
+            <spring>Yes</spring>
+            <weight>11.3</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>170.36</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPE12(5) - 150#</part_num>
+            <size>5"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>EPDM</seal_mat>
+            <spring>Yes</spring>
+            <weight>15</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>246.43</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPE12(6) - 150#</part_num>
+            <size>6"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>EPDM</seal_mat>
+            <spring>Yes</spring>
+            <weight>19</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>282.86</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPE12(8) - 150#</part_num>
+            <size>8"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>EPDM</seal_mat>
+            <spring>Yes</spring>
+            <weight>37</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>430.71</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPE12(10) - 150#</part_num>
+            <size>10"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>EPDM</seal_mat>
+            <spring>Yes</spring>
+            <weight>58.5</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>688.93</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPE12(12) - 150#</part_num>
+            <size>12"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>EPDM</seal_mat>
+            <spring>Yes</spring>
+            <weight>104</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>998.57</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPE12(14) - 150#</part_num>
+            <size>14"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>EPDM</seal_mat>
+            <spring>Yes</spring>
+            <weight>194</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>1984.29</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPE12(16) - 150#</part_num>
+            <size>16"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>EPDM</seal_mat>
+            <spring>Yes</spring>
+            <weight>269</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>2657.14</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPE12(18) - 150#</part_num>
+            <size>18"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>EPDM</seal_mat>
+            <spring>Yes</spring>
+            <weight>318</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>3348.21</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPB12(2) - 150#</part_num>
+            <size>2"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>3.7</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>85.71</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPB12(2.5) - 150#</part_num>
+            <size>2.5"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>5.5</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>106.07</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPB12(3) - 150#</part_num>
+            <size>3"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>6.6</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>138.21</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPB12(4) - 150#</part_num>
+            <size>4"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>11.3</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>187.50</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPB12(6) - 150#</part_num>
+            <size>6"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>19</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>310.71</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPB12(8) - 150#</part_num>
+            <size>8"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>37</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>473.57</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPB12(10) - 150#</part_num>
+            <size>10"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>58.5</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>757.50</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPB12(12) - 150#</part_num>
+            <size>12"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>104</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>1098.21</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPV12(2) - 150#</part_num>
+            <size>2"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>3.7</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>100.71</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPV12(2.5) - 150#</part_num>
+            <size>2.5"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>5.5</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>116.79</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPV12(3) - 150#</part_num>
+            <size>3"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>6.6</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>153.21</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPV12(4) - 150#</part_num>
+            <size>4"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>11.3</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>204.64</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPV12(5) - 150#</part_num>
+            <size>5"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>15</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>295.71</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPV12(6) - 150#</part_num>
+            <size>6"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>19</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>341.79</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPV12(8) - 150#</part_num>
+            <size>8"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>37</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>516.43</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPV12(10) - 150#</part_num>
+            <size>10"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>58.5</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>833.57</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-2-4SPV12(12) - 150#</part_num>
+            <size>12"</size>
+            <body_mat>Cast Iron</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>104</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>1208.57</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPB15(2) - 150#</part_num>
+            <size>2"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>5</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>169.29</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPB15(2.5) - 150#</part_num>
+            <size>2.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>6</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>228.86</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPB15(3) - 150#</part_num>
+            <size>3"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>10</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>270.00</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPB15(4) - 150#</part_num>
+            <size>4"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>18</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>371.79</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPB15(5) - 150#</part_num>
+            <size>5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>22</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>492.86</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPB15(6) - 150#</part_num>
+            <size>6"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>29</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>560.36</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPB15(8) - 150#</part_num>
+            <size>8"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>62</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>940.71</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPV15(2) - 150#</part_num>
+            <size>2"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>5</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>197.14</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPV15(2.5) - 150#</part_num>
+            <size>2.5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>6</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>257.14</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPV15(3) - 150#</part_num>
+            <size>3"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>10</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>315.00</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPV15(4) - 150#</part_num>
+            <size>4"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>18</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>428.57</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPV15(5) - 150#</part_num>
+            <size>5"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>22</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>559.29</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPV15(6) - 150#</part_num>
+            <size>6"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>29</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>696.43</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPV15(8) - 150#</part_num>
+            <size>8"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>62</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>1007.14</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPV15(10) - 150#</part_num>
+            <size>10"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>100</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>1560.00</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPV15(12) - 150#</part_num>
+            <size>12"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>150</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>2344.29</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPV15(14) - 150#</part_num>
+            <size>14"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>210</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>3248.57</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPV15(16) - 150#</part_num>
+            <size>16"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>291</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>4178.57</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPB30(2) - 300#</part_num>
+            <size>2"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>7</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>174.64</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPB30(3) - 300#</part_num>
+            <size>3"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>15</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>291.43</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPB30(4) - 300#</part_num>
+            <size>4"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>18</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>396.43</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-1-4SPB30(6) - 300#</part_num>
+            <size>6"</size>
+            <body_mat>Carbon Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Buna-N</seal_mat>
+            <spring>Yes</spring>
+            <weight>45</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>720.00</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31R-1-4SPV30(2) - 300#</part_num>
+            <size>2"</size>
+            <body_mat>Carbon Steel - Retainerless</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>7</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>223.93</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31R-1-4SPV30(3) - 300#</part_num>
+            <size>3"</size>
+            <body_mat>Carbon Steel - Retainerless</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>15</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>371.79</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31R-1-4SPV30(4) - 300#</part_num>
+            <size>4"</size>
+            <body_mat>Carbon Steel - Retainerless</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>18</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>499.29</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31R-1-4SPV30(6) - 300#</part_num>
+            <size>6"</size>
+            <body_mat>Carbon Steel - Retainerless</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>45</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>867.86</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-4-4SPV15(2) - 150#</part_num>
+            <size>2"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>5</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>380.36</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-4-4SPV15(2.5) - 150#</part_num>
+            <size>2.5"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>7</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>511.07</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-4-4SPV15(3) - 150#</part_num>
+            <size>3"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>11</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>563.57</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-4-4SPV15(4) - 150#</part_num>
+            <size>4"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>19</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>630.00</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-4-4SPV15(5) - 150#</part_num>
+            <size>5"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>23</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>910.71</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-4-4SPV15(6) - 150#</part_num>
+            <size>6"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>30</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>1050.00</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-4-4SPV15(8) - 150#</part_num>
+            <size>8"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>62</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>1682.14</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-4-4SPV15(10) - 150#</part_num>
+            <size>10"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>100</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>2705.36</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31-4-4SPV15(12) - 150#</part_num>
+            <size>12"</size>
+            <body_mat>Stainless Steel</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Viton</seal_mat>
+            <spring>Yes</spring>
+            <weight>150</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>4328.57</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31R-1-4SXM15(2) - 150#</part_num>
+            <size>2"</size>
+            <body_mat>Carbon Steel - Retainerless</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Metal</seal_mat>
+            <spring>Inconel</spring>
+            <weight>5</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>186.43</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31R-1-4SXM15(2.5) - 150#</part_num>
+            <size>2.5"</size>
+            <body_mat>Carbon Steel - Retainerless</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Metal</seal_mat>
+            <spring>Inconel</spring>
+            <weight>7</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>240.00</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31R-1-4SXM15(3) - 150#</part_num>
+            <size>3"</size>
+            <body_mat>Carbon Steel - Retainerless</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Metal</seal_mat>
+            <spring>Inconel</spring>
+            <weight>11</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>302.14</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31R-1-4SXM15(4) - 150#</part_num>
+            <size>4"</size>
+            <body_mat>Carbon Steel - Retainerless</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Metal</seal_mat>
+            <spring>Inconel</spring>
+            <weight>19</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>409.29</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31R-1-4SXM15(5) - 150#</part_num>
+            <size>5"</size>
+            <body_mat>Carbon Steel - Retainerless</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Metal</seal_mat>
+            <spring>Inconel</spring>
+            <weight>23</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>533.57</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31R-1-4SXM15(6) - 150#</part_num>
+            <size>6"</size>
+            <body_mat>Carbon Steel - Retainerless</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Metal</seal_mat>
+            <spring>Inconel</spring>
+            <weight>30</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>675.00</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31R-4-4SXM15(2) - 150#</part_num>
+            <size>2"</size>
+            <body_mat>Stainless Steel - Retainerless</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Metal</seal_mat>
+            <spring>Inconel</spring>
+            <weight>5</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>437.14</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31R-4-4SXM15(2.5) - 150#</part_num>
+            <size>2.5"</size>
+            <body_mat>Stainless Steel - Retainerless</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Metal</seal_mat>
+            <spring>Inconel</spring>
+            <weight>7</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>634.29</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31R-4-4SXM15(3) - 150#</part_num>
+            <size>3"</size>
+            <body_mat>Stainless Steel - Retainerless</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Metal</seal_mat>
+            <spring>Inconel</spring>
+            <weight>11</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>648.21</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31R-4-4SXM15(4) - 150#</part_num>
+            <size>4"</size>
+            <body_mat>Stainless Steel - Retainerless</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Metal</seal_mat>
+            <spring>Inconel</spring>
+            <weight>19</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>724.29</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31R-4-4SXM15(5) - 150#</part_num>
+            <size>5"</size>
+            <body_mat>Stainless Steel - Retainerless</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Metal</seal_mat>
+            <spring>Inconel</spring>
+            <weight>23</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>991.07</price>
+        </valve>
+		<valve>
+        	<type>Metal Hinge Wafer</type>
+            <part_num>31R-4-4SXM15(6) - 150#</part_num>
+            <size>6"</size>
+            <body_mat>Stainless Steel - Retainerless</body_mat>
+            <int_mat>Stainless Steel</int_mat>
+            <seal_mat>Metal</seal_mat>
+            <spring>Inconel</spring>
+            <weight>30</weight>
+			<spec>/media/docs/us_valve_31.pdf</spec>
+            <price>1207.50</price>
+        </valve>
+    </parent>
+</xml>

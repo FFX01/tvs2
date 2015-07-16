@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+   	    <link rel="stylesheet" type="text/css" href="styles/style_main.css">
+		<meta charset="utf-8">
+	</head>
+   	<body>
+	    <table id="container">
+   		    <tr>
+		        <td colspan="2">
+					<div>
+						<img id="splash" src="media/images/splash.jpg">
+					</div>
+		            <div id="header"><h1>Products</h1></div>
+				</td>
+			</tr>
+       		<tr>
+		    <td id="sidebar">
+				<div id="nav">
+					<ul class="top_level">
+						<li><a href="home.html">Home</a></li>
+						<li><a href="products.html">Products</a>
+							<ul class="sub_level">
+								<li><a href="products_type.html">List by Product Type</a></li>
+								<li><a href="products_mfg.html">List by Manufacturer</a></li>
+								<li><a href="search.html">Search</a></li>
+							</ul>
+						</li>
+						<li><a href="about.html">About Us</a></li>
+						<li><a href="Resources.html">Resources</a>
+							<ul class="sub_level">
+								<li><a href="tech_info.html">Technical Info</a></li>
+								<li><a href="selection_guide.html">Selection Guide</a></li>
+								<li><a href="shop_info.html">Shopping Info</a></li>						
+							</ul>
+						</li>
+						<li><a href="contact.html">Contact Us</a></li>
+					</ul>
+				</div>
+				<div id="etc">
+					<p>Powered by:</p>
+					<a href="http://www.valin.com"><img id="valin_logo" src="media/images/valin-logo.png" width="120px"></a>
+				</div>
+				<div id="cart_btn">
+					<form action="http://www.cartserver.com/sc/cart.cgi" method="POST">
+                      <input TYPE="hidden" name="item" VALUE="b-5803">
+                      <input class="cart_btn" type="submit"  name="view" border="0" alt="View Shopping Cart" Value="View Cart">
+                    </form>
+					<form action="http://www.cartserver.com/sc/cart.cgi" method="POST">
+                      <input TYPE="hidden" name="item" VALUE="b-5803">
+                      <input class="cart_btn" type="submit"  name="checkout" border="0" alt="View Shopping Cart" Value="Check Out">
+                    </form>
+				</div>
+			</td>
+          		<td>
+				<div id="section"></div>
+				</td>
+	        </tr>
+            <tr>
+				<td colspan="2"><div id="footer">This is a Footer</div>
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
